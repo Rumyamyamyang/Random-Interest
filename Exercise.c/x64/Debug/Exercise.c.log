@@ -1,0 +1,3 @@
+﻿  source1.c
+C:\Users\HOME\Desktop\Programming\Personal Project\Random-interest\Exercise.c\source1.c(11,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise.c.vcxproj -> C:\Users\HOME\Desktop\Programming\Personal Project\Random-interest\x64\Debug\Exercise.c.exe
